@@ -41,7 +41,6 @@ export const CartPopover = () => {
       aria-label="Shopping cart"
       className="absolute right-0 mt-1 w-96 bg-white border border-slate-200 rounded-2xl shadow-xl z-50 overflow-hidden"
     >
-      {/* HEADER */}
       <div className="flex items-center justify-between px-4 py-3 border-b border-slate-200">
         <div className="flex items-center gap-2 font-semibold text-sm">
           <FiShoppingCart aria-hidden />

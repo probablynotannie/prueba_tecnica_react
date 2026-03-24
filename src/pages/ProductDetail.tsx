@@ -1,4 +1,3 @@
-// pages/ProductDetail.tsx
 import { useParams } from "react-router-dom";
 import { useProduct } from "../hooks/useProduct";
 
