@@ -45,13 +45,13 @@ Incluye funcionalidades como búsqueda, filtrado por categoría y valoración, v
 Clonar el proyecto
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/probablynotannie/prueba_tecnica_react
 ```
 
 Entrada proyecto
 
 ```bash
-  cd my-project
+  cd prueba_tecnica_react
 ```
 
 Instalación de dependencias
