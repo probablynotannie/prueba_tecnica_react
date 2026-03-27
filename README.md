@@ -63,7 +63,7 @@ Instalación de dependencias
 Inicio de servidor
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 <img width="1858" height="917" alt="proyecto" src="https://github.com/user-attachments/assets/0fa3dda1-e63e-4df2-a96a-0b7e361dacba" />
